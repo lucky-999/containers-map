@@ -1,0 +1,2 @@
+npm install --save-dev jest babel-jest @babel/core @babel/cli @babel/preset-env
+npm install core-js@3
